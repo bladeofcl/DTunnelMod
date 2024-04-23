@@ -56,7 +56,7 @@ apt install git -y
 curl -fsSL https://deb.nodesource.com/setup_20.x | bash
 apt-get install -y nodejs -y
 #=========================
-git clone https://github.com/endblack/painelMod.git
+git clone https://github.com/bladeofcl/painelMod.git
 cd /root/painelMod
 chmod 777 pon poff menuop backmod
 mv pon poff menuop backmod /bin
